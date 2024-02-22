@@ -7,7 +7,8 @@ El dataset con el que vamos a trabajar recopila datos de ventas y actividad de l
 Tenemos información sobre varias características de los productos que serán detalladas en secciones siguientes, sus precios, los precios de la competencia y comportamiento de los clientes, si hacen click en un producto, si los colocan en una canasta de productos y finalmente si compran un producto. Nótese que no todas las líneas representan ventas.
 
 La clave del dataset es que la farmacia sigue una política de 'pricing dinámico' donde los precios de cada producto son ajustados diariamente, dentro de ciertas bandas.
-#**Objetivos**
+
+**Objetivos**
 
 Nuestro objetivo va a ser predecir el revenue, y para ello vamos a utilizar 2 enfoques:
 
